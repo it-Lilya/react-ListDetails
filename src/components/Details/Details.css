@@ -1,0 +1,17 @@
+.details { 
+    margin-top: 20px;
+    border: 0.5px solid silver;
+}
+
+.container {
+    text-align: start;
+}
+
+.element {
+    padding: 10px;
+    word-break: inherit;
+}
+
+.element:nth-child(n+2) {
+    border-top: 0.5px solid silver;
+}

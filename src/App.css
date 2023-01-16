@@ -1,0 +1,9 @@
+.App {
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+

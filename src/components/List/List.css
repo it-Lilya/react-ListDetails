@@ -1,0 +1,18 @@
+.list {
+    list-style-type: none;
+    padding: 20px;
+    margin-top: 0;
+    border: 0.5px solid silver;
+}
+
+.list:active {
+    background-color: #0064a9;
+    color: #ffffff;
+}
+
+a { 
+    text-decoration: none;
+}
+a:active {
+    color: #ffffff;
+}
