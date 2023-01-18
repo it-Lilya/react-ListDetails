@@ -2,14 +2,6 @@ import React from "react";
 import './Details.css';
 
 export function Details({info}) { 
-//   const arr = [];
-//   for (let element in info.details) {
-//     if (info.details.hasOwnProperty(element)) {
-//         arr.push(element)
-//     }
-    
-// }
-
   return (
     <div className="details">
       <img src={`${info.avatar}?${Math.random()}`} alt='...' />
